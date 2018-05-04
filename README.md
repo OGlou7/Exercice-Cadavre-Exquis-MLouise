@@ -13,4 +13,6 @@ L'état cadavérique est la 3e étape de décomposition d'un corps, il est situ�
 		L'oiseau tua alors le chien qui étais là !
 	</code>
 </pre>
-
+Dans le milieu naturel et les cycles du vivant, les **cadavres** de petits animaux (jusqu'à la taille d'un canard) sont très rapidement transportés (nécrophorèse), éliminés par des organismes décomposeurs (bactéries, champignons) ou mangés par des organismes nécrophages.  
+Les **cadavres** de gros animaux tels que les baleines peuvent mettre des années pour être entièrement décomposés. Certains prédateurs enterrent les cadavres ou les cachent pour revenir les manger plus tard.  
+Vautours, corvidés et de nombreux mammifères carnivores ou omnivores participent à l'élimination rapide des **cadavres**.
