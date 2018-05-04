@@ -28,3 +28,9 @@ function fancyAlert(arg) {
 [JavaScript](https://www.javascript.com/)
 
 *C'est cool le code,* **surtout JavaScript.**
+
+C'est facile GitHub
+
+Surtout offline
+
+Miam manger time
