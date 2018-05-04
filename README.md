@@ -28,3 +28,7 @@ function fancyAlert(arg) {
 [JavaScript](https://www.javascript.com/)
 
 *C'est cool le code,* **surtout JavaScript.**
+
+Cela dit le code n'a rien avoir avec les cadavres et donc il en vien de revenir à notre histoir principale.
+Les cadavres, humain ou autre, son't souvent un sujet tabou pour toute les cultures.
+Cela dit certain on une fascination peut naturelle pour les cadavres.
