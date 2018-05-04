@@ -45,12 +45,18 @@ Miam manger time
 
 ## Come back !
 
-ok ok, on parle de cadavres ici... 
+ok ok, on parle de cadavres ici...
 
-> vive la vie ! 
+> vive la vie !
 
 *Je sais pas quoi ecrire*
 
 ** VOUS ME TROUVERA JAMAIS !**
 
 # HAHAHAHAHAAHA!
+
+###### on adore les cadavres
+
+*** on les aime soupe, rotie, au plat, frie, ....***
+
+Et ma *soeur* a comme petit-ami un *zombi*.
