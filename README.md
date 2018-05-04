@@ -40,3 +40,9 @@ Surtout offline
 
 Miam manger time
 >>>>>>> 99889e596e27fdc64523df1d26f0d8eb69cc9db9
+
+## Come back !
+
+ok ok, on parle de cadavres ici... 
+
+> vive la vie ! 
