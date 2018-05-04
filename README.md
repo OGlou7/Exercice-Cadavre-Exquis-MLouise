@@ -29,6 +29,14 @@ function fancyAlert(arg) {
 
 *C'est cool le code,* **surtout JavaScript.**
 
+<<<<<<< HEAD
 Cela dit le code n'a rien avoir avec les cadavres et donc il en vien de revenir à notre histoir principale.
 Les cadavres, humain ou autre, son't souvent un sujet tabou pour toute les cultures.
 Cela dit certain on une fascination peut naturelle pour les cadavres.
+=======
+C'est facile GitHub
+
+Surtout offline
+
+Miam manger time
+>>>>>>> 99889e596e27fdc64523df1d26f0d8eb69cc9db9
