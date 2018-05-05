@@ -60,3 +60,19 @@ ok ok, on parle de cadavres ici...
 *** on les aime soupe, rotie, au plat, frie, ....***
 
 Et ma *soeur* a comme petit-ami un *zombi*.
+
+## Nouveau Chapitre
+
+Bonjour à tous, 
+
+Je suis **Octocat**, et en ce samedi matin je m'entraine sur git.
+ 
+Et je m'entraine aussi avec le *markdown*.
+
+* Master
+  * Developpement
+  
+![Octocat](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
+
+
+
